@@ -26,4 +26,4 @@
 /// OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 /// THE SOFTWARE.
 
-public let YelpAPIKey = "<#Paste your API Key here#>"
+public let YelpAPIKey = "Jl9dQXGUhkuButkGk1IarhbF6lydEucqLO4kT7lE_8YGpB693r-nJK2vhNMru0O-M2xbHhblp5tmEi3Tx6t567GBIN3fEbzMRurHMFMKMJPeZB5HepyiRExO0Nd8W3Yx"
